@@ -9,7 +9,7 @@
  */
 public class NewJFrame extends javax.swing.JFrame {
 
-    /**
+    /**gdgdgd
      * Creates new form NewJFrame
      */
     public NewJFrame() {
